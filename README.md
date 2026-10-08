@@ -26,10 +26,7 @@ class HO:
 
 **Concepts:** Data Structures & Algorithms, OOP, Operating Systems, REST APIs, System Design, Caching, Semantic Search, Machine Learning
 
-## Reach me
-
-[harshogale04@gmail.com](mailto:harshogale04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshogale04/) | [Portfolio](https://harshogale04.github.io/Portfolio/)
 
 ---
 
-*My commit history is 10% features and 90% "fix".*
+*My commit history is 10% features and 90% "fix". :)*
