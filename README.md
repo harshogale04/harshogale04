@@ -29,4 +29,4 @@ class HO:
 
 ---
 
-*My commit history is 10% features and 90% "fix". :)*
+*My commit history is 10% features and 90% "fix" :)*
